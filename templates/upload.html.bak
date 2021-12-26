@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<css>
+</css>
+<html>
+  <body>
+        <a>目前似乎只支持pdf打印，当前版本:Beta0.0002 by.dayi</a>
+          <form action="./uploader" method="POST" enctype="multipart/form-data">
+              <input type="file" name="file"  />
+              <input type="submit" value="提交" />
+          </form>
+  </body>
+</html>
+      

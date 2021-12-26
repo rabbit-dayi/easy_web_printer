@@ -1,0 +1,9 @@
+cscript prnqctl.vbs -z -p "EPSON L3150 Series"
+cscript prnqctl.vbs -m -p "EPSON L3150 Series"
+cscript prnqctl.vbs -e -p "EPSON L3150 Series"
+C:\Windows\System32\Printing_Admin_Scripts\zh-CN>
+
+https://docs.microsoft.com/zh-cn/windows-server/administration/windows-commands/print-command-reference
+print /d:"EPSON L3150 Series" C:\report.txt
+
+"C:\Program Files\Python37\python.exe" C:\_server\py_print2\_project\hi.py
