@@ -1,2 +1,9 @@
 # easy_web_printer
-Easy print website,it will send file to printer
+easy_web_printer
+
+put up your file ,then it will send it to printer
+
+```sh
+pip install -r requirements.txt
+python hi.py
+```
